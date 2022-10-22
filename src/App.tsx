@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <header>
-        <h1>React Router v6</h1>
+        <h1 className="tw-text-3xl tw-font-bold tw-underline">React Router v6</h1>
       </header>
       <Nav />
       <Routes>
